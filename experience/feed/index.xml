@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Experience	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Where Tech Meets Poetry</description>
+	<lastBuildDate>Sun, 14 Apr 2019 09:09:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>
+		By: Vasan		</title>
+		<link>./../index.html#comment-113</link>
+
+		<dc:creator><![CDATA[Vasan]]></dc:creator>
+		<pubDate>Sun, 14 Apr 2019 09:09:07 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=330#comment-113</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-112&quot;&gt;Shreya&lt;/a&gt;.
+
+Thank you :) Keep visiting and reading for more posts. This support motivates me to write more.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-112">Shreya</a>.</p>
+<p>Thank you 🙂 Keep visiting and reading for more posts. This support motivates me to write more.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Shreya		</title>
+		<link>./../index.html#comment-112</link>
+
+		<dc:creator><![CDATA[Shreya]]></dc:creator>
+		<pubDate>Sun, 14 Apr 2019 05:05:37 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=330#comment-112</guid>
+
+					<description><![CDATA[<img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f60d.png" alt="😍" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f60d.png" alt="😍" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f60d.png" alt="😍" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f60d.png" alt="😍" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f60d.png" alt="😍" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f60d.png" alt="😍" class="wp-smiley" style="height: 1em; max-height: 1em;" /> last paragraph is so motivating.]]></description>
+			<content:encoded><![CDATA[<p>😍😍😍😍😍😍 last paragraph is so motivating.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

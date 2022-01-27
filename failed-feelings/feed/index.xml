@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Failed Feelings	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Where Tech Meets Poetry</description>
+	<lastBuildDate>Tue, 14 May 2019 04:21:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>
+		By: Endlessly exciting girl		</title>
+		<link>./../index.html#comment-132</link>
+
+		<dc:creator><![CDATA[Endlessly exciting girl]]></dc:creator>
+		<pubDate>Tue, 14 May 2019 04:21:35 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=272#comment-132</guid>
+
+					<description><![CDATA[Still, he wants her to know
+The feelings he failed to show
+Weren’t merely love or lust
+Four letter words could never do just
+
+The above lines are just Wowww.....
+Keep it up]]></description>
+			<content:encoded><![CDATA[<p>Still, he wants her to know<br />
+The feelings he failed to show<br />
+Weren’t merely love or lust<br />
+Four letter words could never do just</p>
+<p>The above lines are just Wowww&#8230;..<br />
+Keep it up</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

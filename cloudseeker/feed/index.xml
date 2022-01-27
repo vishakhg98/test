@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Cloudseeker	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>Where Tech Meets Poetry</description>
+	<lastBuildDate>Wed, 10 Apr 2019 11:47:01 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+	<item>
+		<title>
+		By: Vasan		</title>
+		<link>./../index.html#comment-111</link>
+
+		<dc:creator><![CDATA[Vasan]]></dc:creator>
+		<pubDate>Wed, 10 Apr 2019 11:47:01 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=505#comment-111</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-110&quot;&gt;Anonymous&lt;/a&gt;.
+
+Thanks :) How did you stumble on to this poem?]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-110">Anonymous</a>.</p>
+<p>Thanks 🙂 How did you stumble on to this poem?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Anonymous		</title>
+		<link>./../index.html#comment-110</link>
+
+		<dc:creator><![CDATA[Anonymous]]></dc:creator>
+		<pubDate>Wed, 10 Apr 2019 11:20:57 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=505#comment-110</guid>
+
+					<description><![CDATA[hey, Loved it.. 
+**Far away from the crowd
+From everything that’s loud
+Still, he stood
+Gazing at the snowy cloud**
+
+loved these lines. You really are a creative guy. who seeks answers in the clouds.]]></description>
+			<content:encoded><![CDATA[<p>hey, Loved it..<br />
+**Far away from the crowd<br />
+From everything that’s loud<br />
+Still, he stood<br />
+Gazing at the snowy cloud**</p>
+<p>loved these lines. You really are a creative guy. who seeks answers in the clouds.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
